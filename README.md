@@ -8,9 +8,10 @@ API Taxa de Juros
         3 - Camade de Serviço (Business)
         4  - Camada de infraestrutura (Infrastructure)
 
-# Plataforma  - .Net 5
-
-# Documentação API: Swagger
+# Plataforma 
+    - .Net 5
+# Documentação API:
+  - Swagger
 
 
 
