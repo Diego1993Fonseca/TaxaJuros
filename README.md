@@ -9,7 +9,7 @@ API Taxa de Juros
         4  - Camada de infraestrutura (Infrastructure)
 
 # Plataforma 
-    - .Net 5
+   - .Net 5
 # Documentação API:
   - Swagger
 
