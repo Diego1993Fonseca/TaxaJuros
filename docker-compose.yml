@@ -1,0 +1,17 @@
+version: '3.4'
+
+services:
+  taxa-juros-application:
+    image: taxa-juros-application
+    build:
+      context: .
+      dockerfile: TaxaJuros.Application/Dockerfile
+    ports:
+       - "44370:80"
+    networks:
+       - juros
+    container_name: taxajurosapi
+     
+networks:
+ juros:
+   external: true
